@@ -4,7 +4,8 @@
   "description": "RESTful service for my webcrawler project.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon ./server.js"
   },
   "repository": {
     "type": "git",
