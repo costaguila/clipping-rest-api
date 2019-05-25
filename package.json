@@ -1,0 +1,36 @@
+{
+  "name": "clipping-rest-api",
+  "version": "1.0.0",
+  "description": "RESTful service for my webcrawler project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costaguila/clipping-rest-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "webcrawler",
+    "mongodb",
+    "webservice",
+    "node.js",
+    "express"
+  ],
+  "author": "Guilherme de Almeida Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costaguila/clipping-rest-api/issues"
+  },
+  "homepage": "https://github.com/costaguila/clipping-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
